@@ -180,6 +180,7 @@ mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$
 ***
 
 8)   Добавить произвольную задачу для выполнения каждые 3 минуты (Например, запись в текстовый файл чего-то или копирование из каталога А в каталог Б).
+
 ***
 
 mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ crontab -e
@@ -194,6 +195,98 @@ mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$
 
 ![Добавляем задачу](image/9.png)
 
+mishany@mishany-B450M-DS3H-V2:~$ ls -l
 
+итого 84
+
+-rw-r--r--  1 mishany mishany 8980 дек 12 00:11  examples.desktop
+
+drwxr-xr-x  2 root    root    4096 фев 19 13:30  homework4
+
+drwxrwxr-x  3 mishany mishany 4096 фев 26 01:46  Intermediate_certification
+
+drwxrwxr-x  9 mishany mishany 4096 дек 25 13:21  Java_introduction_and_how_to_use_the-basic_API_-workshops-
+
+drwxrwxr-x  7 mishany mishany 4096 янв 28 16:52  OOP
+
+drwxrwxr-x  3 mishany mishany 4096 фев  5 19:01 'Operating systems and virtualization (Linux) (seminars)'
+
+drwxrwxr-x  3 mishany mishany 4096 фев 26 22:16  PycharmProjects
+
+drwxrwxrwx  4 mishany mishany 4096 дек 30 08:15  Seminar_5
+
+drwx------ 13 mishany mishany 4096 мар 11 00:47  snap
+
+drwxrwxr-x  2 mishany mishany 4096 мар 22 11:02  task_1
+
+drwxrwxr-x  3 mishany mishany 4096 мар 22 09:48  yjdfz
+
+drwxr-xr-x  2 mishany mishany 4096 янв 28 17:58  Видео
+
+drwxr-xr-x  6 mishany mishany 4096 мар 11 00:40  Документы
+
+drwxr-xr-x  2 mishany mishany 4096 мар 22 07:52  Загрузки
+
+drwxr-xr-x  4 mishany mishany 4096 мар 11 12:46  Изображения
+
+drwxr-xr-x  2 mishany mishany 4096 дек 12 00:31  Музыка
+
+drwxr-xr-x  2 mishany mishany 4096 дек 12 00:31  Общедоступные
+
+drwxr-xr-x  8 mishany mishany 4096 мар 22 11:08 'Рабочий стол'
+
+drwxr-xr-x  3 mishany mishany 4096 дек 24 12:21  Шаблоны
+
+mishany@mishany-B450M-DS3H-V2:~$ ls -l
+
+итого 88
+
+-rw-r--r--  1 mishany mishany 8980 дек 12 00:11  examples.desktop
+
+drwxr-xr-x  2 root    root    4096 фев 19 13:30  homework4
+
+drwxrwxr-x  3 mishany mishany 4096 фев 26 01:46  Intermediate_certification
+
+drwxrwxr-x  9 mishany mishany 4096 дек 25 13:21  Java_introduction_and_how_to_use_the-basic_API_-workshops-
+
+drwxrwxr-x  7 mishany mishany 4096 янв 28 16:52  OOP
+
+drwxrwxr-x  3 mishany mishany 4096 фев  5 19:01 'Operating systems and virtualization (Linux) (seminars)'
+
+drwxrwxr-x  3 mishany mishany 4096 фев 26 22:16  PycharmProjects
+
+drwxrwxr-x  2 mishany mishany 4096 мар 22 11:21  **Script**
+
+drwxrwxrwx  4 mishany mishany 4096 дек 30 08:15  Seminar_5
+
+drwx------ 13 mishany mishany 4096 мар 11 00:47  snap
+
+drwxrwxr-x  2 mishany mishany 4096 мар 22 11:02  task_1
+
+drwxrwxr-x  3 mishany mishany 4096 мар 22 09:48  yjdfz
+
+drwxr-xr-x  2 mishany mishany 4096 янв 28 17:58  Видео
+
+drwxr-xr-x  6 mishany mishany 4096 мар 11 00:40  Документы
+
+drwxr-xr-x  2 mishany mishany 4096 мар 22 07:52  Загрузки
+
+drwxr-xr-x  4 mishany mishany 4096 мар 11 12:46  Изображения
+
+drwxr-xr-x  2 mishany mishany 4096 дек 12 00:31  Музыка
+
+drwxr-xr-x  2 mishany mishany 4096 дек 12 00:31  Общедоступные
+
+drwxr-xr-x  8 mishany mishany 4096 мар 22 11:08 'Рабочий стол'
+
+drwxr-xr-x  3 mishany mishany 4096 дек 24 12:21  Шаблоны
+
+mishany@mishany-B450M-DS3H-V2:~$ ls Script
+
+**file.txt**
+
+mishany@mishany-B450M-DS3H-V2:~$ 
+
+![Скрипт отработал](image/10.png)
 
 ***
