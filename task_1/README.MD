@@ -160,3 +160,25 @@ mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$
 
 ![Просмотр содержимого каталога «Игрушки»](image/6.png)
 ***
+
+7)   Установить и удалить snap-пакет. (Любой, какой хотите)
+***
+mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ sudo snap install vlc
+
+[sudo] пароль для mishany: 
+
+vlc 3.0.18 от VideoLAN✓ установлен
+
+mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ sudo snap remove vlc
+
+vlc удалён
+
+mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ 
+
+![Установка и удаление snap-пакет. (VLC)](image/7.png)
+
+***
+
+
+
+***
