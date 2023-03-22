@@ -190,6 +190,10 @@ mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$
 
 ![Открываем Crontab](image/8.png)
 
+*/3 * * * * /home/mishany/task_1/script.sh
+
+![Добавляем задачу](image/9.png)
+
 
 
 ***
