@@ -179,6 +179,17 @@ mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$
 
 ***
 
+8)   Добавить произвольную задачу для выполнения каждые 3 минуты (Например, запись в текстовый файл чего-то или копирование из каталога А в каталог Б).
+***
+
+mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ crontab -e
+
+crontab: installing new crontab
+
+mishany@mishany-B450M-DS3H-V2:~/Рабочий стол/task_1$ 
+
+![Открываем Crontab](image/8.png)
+
 
 
 ***
