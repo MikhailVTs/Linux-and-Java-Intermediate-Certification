@@ -1,0 +1,26 @@
+[
+    {
+        "toys": {
+            "id_toy": 1,
+            "name_toy": "teddy_bear"
+        }
+    },
+    {
+        "toys": {
+            "id_toy": 2,
+            "name_toy": "train"
+        }
+    },
+    {
+        "toys": {
+            "id_toy": 3,
+            "name_toy": "rocket"
+        }
+    },
+    {
+        "toys": {
+            "id_toy": 4,
+            "name_toy": "Pig"
+        }
+    }
+]
