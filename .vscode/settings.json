@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "task_2/src/slf4j-api-1.7.33.jar",
+        "task_2/src/json-smart-2.4.7.jar",
+        "task_2/src/json-simple-1.1.1.jar",
+        "task_2/src/json-path-2.7.0.jar",
+        "task_2/src/jackson-databind-2.15.0-rc1.jar",
+        "task_2/src/jackson-core-2.15.0-rc1.jar",
+        "task_2/src/jackson-annotations-2.15.0-rc1.jar",
+        "task_2/src/gson-2.8.2.jar",
+        "task_2/src/asm-9.1.jar",
+        "task_2/src/accessors-smart-2.4.7.jar"
+    ]
+}
